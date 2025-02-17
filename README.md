@@ -4,7 +4,9 @@
 
 ## <div align='center'>🌐 Socials:</div>
 <div align='center'>
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ares.__77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah2023037@gmail.com) 
+
 </div>
 # <div align='center'>💻 Tech Stack:</div>
 <div align='center'>
@@ -34,8 +36,8 @@
 <div align='center'>
   
 ![](https://github-contributor-stats.vercel.app/api?username=spectre0037&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 </div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=spectre0037&icon=0&color=0)](https://visitcount.itsvg.in)
 
