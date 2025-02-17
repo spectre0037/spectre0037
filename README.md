@@ -2,7 +2,7 @@
 # <div align='center'> WEB-DEVELOPER AND DATA SCIENCE STUDENT</div>
 
 
-# <div align='center'>🌐 Socials:</div>
+# <div align='center'> 🌐 Socials:</div>
 <div align='center'>
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ares.__77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah2023037@gmail.com) 
