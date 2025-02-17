@@ -31,7 +31,6 @@
 <div align='center'>
   
 ![](https://github-profile-trophy.vercel.app/?username=spectre0037&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-  
 </div>
 
 ### <div align='center'>🔝 Top Contributed Repo</div>
