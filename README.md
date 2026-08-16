@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=F46C38&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;CS+Student+%40+GIKI+%7C+SAP+%2B+AI+Intern+%40+TMC;React+%2B+FastAPI+%2B+PostgreSQL+%2B+LLMs;Currently+exploring+RAG+%26+Agentic+AI" alt="Typing SVG" />
 </a>
 <br/>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ares.__77)
-[![Gmail](https://img.shields.io/badge/Email-f46c38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah2023037@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=f46c38)](#)
+[Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ares.__77)
+[Gmail](https://img.shields.io/badge/Email-f46c38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah2023037@gmail.com)
+[Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=f46c38)
  
 </div>
 <br/>
