@@ -1,47 +1,99 @@
-#  <div align='center'>💫 About Me:</div>
-# <div align='center'> WEB-DEVELOPER AND DATA SCIENCE STUDENT</div>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f46c38,100:0d1117&height=200&section=header&text=Abdullah%20Bin%20Zubair&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Data%20Science%20Student&descAlignY=58&descSize=18&descColor=f46c38" width="100%"/>
 
-# <div align='center'> 🌐 Socials:</div>
-<div align='center'>
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ares.__77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah2023037@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=F46C38&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;CS+Student+%40+GIKI+%7C+SAP+%2B+AI+Intern+%40+TMC;React+%2B+FastAPI+%2B+PostgreSQL+%2B+LLMs;Currently+exploring+RAG+%26+Agentic+AI" alt="Typing SVG" />
+</a>
 
-</div>
+<br/>
 
-# <div align='center'>💻 Tech Stack:</div>
-
-<div align='center'>
-  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ares.__77)
+[![Gmail](https://img.shields.io/badge/Email-f46c38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah2023037@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=f46c38)](#)
 
 </div>
 
-# <div align='center'>📊 GitHub Stats:</div>
+<br/>
 
-<div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api?username=spectre0037&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=spectre0037&theme=tokyonight&hide_border=false)<br/>
+## 💫 About Me
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spectre0037&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" alt="coding gif" width="320" src="https://raw.githubusercontent.com/aditya4reddy/aditya4reddy/master/inspirit.gif">
+
+- 🎓 Third-year **Computer Science** student at **GIKI**, Pakistan
+- ⚡ Interning at **Tally Marks Consulting**, working across SAP, AI, and cloud projects
+- 🧠 Deep-diving into **RAG systems, LLM agents, and full-stack architecture**
+- 🏔️ Active member of **GAKI** — planning treks across northern Pakistan
+- 🛠️ Building **TaleemXpress**, **CorpMind**, and other production-grade platforms
+- 🌱 Currently learning: advanced multi-tenant RAG, LangGraph agents
+- 💬 Ask me about: React, FastAPI, PostgreSQL, RAG pipelines, SAP ecosystems
+- ⚡ Fun fact: I plan projects with a PRD → TRD → Schema → Build workflow
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spectre0037/spectre0037/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spectre0037/spectre0037/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spectre0037/spectre0037/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+> ⚙️ **Setup needed:** this snake only appears after you add the GitHub Action below to this repo — see the *Snake Setup* section at the bottom.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,nextjs,nodejs,express,fastapi,python,php&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma,docker,git,github,figma,vercel,tailwind,bootstrap&theme=dark" />
 
 </div>
 
-## <div align='center'>🏆 GitHub Trophies</div>
-<div align='center'>
-  
-![](https://github-profile-trophy.vercel.app/?username=spectre0037&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=spectre0037&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f46c38&icon_color=f46c38&text_color=c9d1d9&border_radius=12"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectre0037&layout=compact&hide_border=true&bg_color=0d1117&title_color=f46c38&text_color=c9d1d9&border_radius=12"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spectre0037&hide_border=true&background=0d1117&ring=f46c38&fire=f46c38&currStreakLabel=f46c38&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border_radius=12" width="60%"/>
+
 </div>
 
-### <div align='center'>🔝 Top Contributed Repo</div>
-<div align='center'>
-  
-![](https://github-contributor-stats.vercel.app/api?username=spectre0037&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
+
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spectre0037&theme=react-dark&bg_color=0d1117&color=f46c38&line=f46c38&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=spectre0037&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=spectre0037&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px">
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=spectre0037&color=f46c38&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f46c38,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
+
